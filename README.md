@@ -24,5 +24,5 @@ Use a node version higher than `16.x`.
 
 ```console
 npm install markdownlint-cli
-npx markdownlint "Software-License-Agreement.md" --config="config/lint.json"
+npx markdownlint "Pilot-Agreement.md" --config="config/lint.json"
 ```
