@@ -10,7 +10,7 @@
     7. <span class="header_3" id="1.7">Reservation of Rights.</span>  Except for the limited license to install and use Software in Section 1.2 (License), <span class="orderform_link">Provider</span> retains all right, title, and interest in and to the Product, whether developed before or after the <span class="orderform_link">Effective Date</span>. Except for the limited rights in Section 1.4 (Customer Content), <span class="orderform_link">Customer</span> retains all right, title, and interest in and to the Customer Content.
 2. <span class="header_2" id="2">Term & Termination</span>
     1. <span class="header_3" id="2.1">Agreement.</span>  The Agreement will start on the <span class="orderform_link">Effective Date</span> and, unless terminated earlier according to the terms of this Agreement, will continue through the <span class="orderform_link">Pilot Period</span>.
-    2. <span class="header_3" id="2.2">Termination.</span>  Either party may terminate the Framework Terms or an Order Form immediately:
+    2. <span class="header_3" id="2.2">Termination.</span>  Either party may terminate the Agreement immediately:
         a. if the other party fails to cure a material breach of the Agreement following 30 days notice;
         b. upon notice if the other party (i) materially breaches the Agreement in a manner that cannot be cured; (ii) dissolves or stops conducting business without a successor; (iii) makes an assignment for the benefit of creditors; or (iv) becomes the debtor in insolvency, receivership, or bankruptcy proceedings that continue for more than 60 days; or
         c. for any or no reason following 30 days notice to the other party.
@@ -65,5 +65,5 @@
     14. <span id="8.14"></span>**"Product"** means the product described in the Order Form.
     15. <span id="8.15"></span>**"Recipient"** means a party to this Agreement when the party receives Confidential Information from the other party.
     16. <span id="8.16"></span>**"Software"** means the client-side software or applications made available by <span class="orderform_link">Provider</span> for <span class="orderform_link">Customer</span> to install, download (whether onto a machine or in a browser), or execute as part of the Product.
-    17. <span id="8.17"></span>**"Standard Terms"** means these Common Paper Pilot Agreement Standard Terms Version 1.0, which are posted at <https://commonpaper.com/standards/pilot-agreement/1.0>.
+    17. <span id="8.17"></span>**"Standard Terms"** means these Common Paper Pilot Agreement Standard Terms Version 1.1, which are posted at <https://commonpaper.com/standards/pilot-agreement/1.1>.
     18. <span id="8.18"></span>**"User"** means any individual who uses the Product on <span class="orderform_link">Customer's</span> behalf or through <span class="orderform_link">Customer's</span> account.
